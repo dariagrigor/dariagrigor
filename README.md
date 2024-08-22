@@ -2,7 +2,7 @@
 - 🤓 I'm a Centennial College Software Engineering Technology - Artificial Intelligence program student.
 - 👀 I’m interested in Artificial Intelligence, Data Management and Programming.
 - 🌱 I’m currently learning Javascript and Java.
-- ⚡ Fun fact: coding bots in Discord is what inspired me to enroll in this program.
+- ⚡ Fun fact: Coding bots in Discord inspired me to start this career.
 - 📫 How to reach me: dgrigor1@my.centennialcollege.ca
 
 <!---
